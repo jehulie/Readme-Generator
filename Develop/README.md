@@ -1,9 +1,8 @@
-# Project Name
-  
-  
+# Project Title
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+   
   ## Description
   Project Title
-  
   
   ## Table of Contents
   * [Installation](#installation)
@@ -13,30 +12,25 @@
   * [Questions](#questions)
   * [License](#license)
  
-
   ## Installation
-  Node Install
-
+  node
 
   ## Usage
-  It works!
-
+  usable
 
   ## Contributing
-  Help me!  
-
+  yes  
 
   ## Tests
-  No tests, only experiments
-  
+  none
   
   ## Questions
-  If you have any questions about this project, please contact me at jehulie@hotmail.com.
+  If you have any questions about this project, please contact me at jehulie@github.com.
   
   You can view more of my projects at https://github.com/jehulie.
 
- ---
+  ---
 
- ## License
- Apache License 2.0 
-
+  ## License
+    This application is covered under the Mozilla Public License 2.0. 
+ 
